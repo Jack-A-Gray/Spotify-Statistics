@@ -1,4 +1,3 @@
-# Spotify-Statistics
 # Spotify Streams Analysis Project
 
 ## Team Members
