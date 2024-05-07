@@ -20,13 +20,6 @@ WeeksOnCharts: Numeric - Number of weeks the song was on Spotify Charts
 TrackID: Text - Unique identifier for each track
 And other attributes related to the musical and technical aspects of each track.
 
-Entity Relationship Diagram (ERD)
-Our ERD provides a structural overview of our database, showing key relationships and dependencies among various musical attributes and entities. This visual representation helps in understanding the interconnectivity and flow of data essential for our analysis.
-
-
-Relational Schema
-Based on the ERD, we developed a relational schema with five tables, optimizing data structure for efficient querying and analysis. This schema aids in dissecting the complex many-to-many relationships between songs and artists, essential for our multi-dimensional analysis.
-
 Accessing the Application
 To explore our interactive analysis and visualizations, visit our web application:
 Spotify Streams Project Application
